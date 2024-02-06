@@ -1,0 +1,17 @@
+1) String is a built in class available in java.
+2) but it also used a data type .
+3) String is a collection of character , that forming words and sentences, names or anything.
+4) Delcration of String Method -->
+5) String str1="Bhuvi";
+6) str1 is a variable 
+7) "Bhuvi"is a string object or it also be a String literals.
+8) Length of string -->
+                B|h|u|v|i
+                0|1|2|3|4
+    Length of str1 is 5.
+9) Constructor : Constructor are that a method that are used for creating object.
+10)Object is created in heap as well as in pool in java .. 
+    Heap Example -->
+    String str1=new String("java");
+    pool Example -->
+    String str2="java";
