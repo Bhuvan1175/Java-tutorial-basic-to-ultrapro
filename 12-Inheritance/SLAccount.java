@@ -5,7 +5,6 @@ class Account {
     private String phno;
     private String dob;
     protected long balance;
-
     public Account(String acc, String n, String add, String phno, String dob) {
         accNo = acc;
         name = n;
@@ -14,23 +13,18 @@ class Account {
         this.dob = dob;
         balance = 0;
     }
-
     public String getaccNo() {
         return accNo;
     }
-
     public String getname() {
         return name;
     }
-
     public String getaddress() {
         return address;
     }
-
     public String getphno() {
         return phno;
     }
-
     public String getdob() {
         return dob;
     }
