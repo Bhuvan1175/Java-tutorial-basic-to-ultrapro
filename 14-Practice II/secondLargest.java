@@ -14,3 +14,4 @@ public class secondLargest {
         System.out.println("Second Maximum Number : "+max2);
     }    
 }
+
