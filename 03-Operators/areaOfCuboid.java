@@ -16,4 +16,5 @@ public class areaOfCuboid {
         System.out.println("Volume of Cuboid :"+volumeOfCuboid);
         sc.close();
     }
+    
 }
